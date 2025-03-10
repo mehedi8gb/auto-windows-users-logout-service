@@ -6,3 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/auto windows users logout service.iml
+/misc.xml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
+/inspectionProfiles/Project_Default.xml
+/modules.xml
